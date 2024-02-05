@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryz99.
-- 👀 I’m interested in contributing to open source projects (particularly those related to infosec/cyber.
+- 👀 I’m interested in contributing to open source projects (particularly those related to infosec/cyber).
 - 🌱 I have scripting experience with Python and I'm currently learning Linux using ParrotOS.
 
 <!---
